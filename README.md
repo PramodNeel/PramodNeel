@@ -6,7 +6,7 @@
  | Email
 
 😄 Pronouns: He/Him
-⚡ Fun fact: I have a 6-acre farm and love mixing tech with real-world problem-solving! 🌱💻
+⚡
 
 <!---
 PramodNeel/PramodNeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
